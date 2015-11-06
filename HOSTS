@@ -2,7 +2,7 @@
 #
 #  本文件为干互联网的屌丝专用！
 #
-#  更新于：2015-11-1 22:24
+#  更新于：2015-11-3 21:54
 #  
 #  部署hosts文件前请注意文本编码和换行符格式
 #
@@ -12,10 +12,6 @@
 216.239.38.123	gmail-pop.l.google.com
 216.239.38.123	gmail-smtp.l.google.com
 216.239.38.123	gmail-smtp-msa.l.google.com
-216.239.38.123  mail-settings.google.com
-216.239.38.123	imap.gmail.com
-216.239.38.123	pop.gmail.com
-216.239.38.123	smtp.gmail.com
 216.239.38.123	gmail-smtp-in.l.google.com
 216.239.38.123	googlemail-imap.l.google.com
 216.239.38.123	googlemail-pop.l.google.com
@@ -40,6 +36,9 @@
 216.239.38.123	mail.google.com
 216.239.38.123	talk.gmail.com
 216.239.38.123	www.gmail.com
+64.233.188.109	imap.gmail.com
+64.233.188.109	pop.gmail.com
+64.233.188.109	smtp.gmail.com
 # BY:laod.cn
 # Gmail End
 
@@ -2315,9 +2314,9 @@
 208.111.148.7	llnw.blizzard.com
 121.254.200.133	zhTW.patch.battle.net
 # Battle.NET End
-# 本文件来自 老D博客 www.laod.cn  转载请说明出处！
-# 更新于：2015-11-1 22:24
-# 更新地址：http://laod.cn/hosts/2015-google-hosts.html
+# 鏈枃浠舵潵鑷?鑰丏鍗氬 www.laod.cn
+# 鏇存柊浜庯細2015-11-3 21:52
+# 鏇存柊鍦板潃锛歨ttp://laod.cn/hosts/2015-google-hosts.html
 # Box.com Start
 74.112.184.70	app.box.com
 74.112.184.90	box.com
@@ -2707,46 +2706,9 @@
 37.0.88.36	support.startpage.com
 37.0.88.36	blog.startpage.com
 # Startpage End
-
-# Steam Start
-23.32.241.40	akacdn.valve.com.edgesuite.net
-208.64.202.85	api.steampowered.com
-162.242.173.193	cafe.steampowered.com
-23.32.241.19	cdn.akamai.steamstatic.com
-23.32.241.19	cdn.steamcommunity.com
-23.32.241.19	cdn.steampowered.com
-23.32.241.19	cdn.store.steampowered.com
-162.254.192.20	client-download.steampowered.com
-205.185.216.42	cloud-2.steampowered.com
-205.185.216.10	cloud-2.steamusercontent.com
-23.32.241.19	cloud-3.steampowered.com
-23.32.241.19	cloud-3.steamusercontent.com
-205.128.91.126	cloud-4.steampowered.com
-205.128.91.126	cloud-4.steamusercontent.com
-207.123.53.253	content2.steampowered.com
-205.185.216.10	content3.steampowered.com
-69.252.117.26	content6.steampowered.com
-23.32.241.19	content8.steampowered.com
-184.50.91.157	forums.steampowered.com
-23.32.241.19	images.akamai.steamusercontent.com
-23.32.241.19	media.steampowered.com
-205.185.216.42	media2.steampowered.com
-207.123.53.253	media3.steampowered.com
-23.32.241.19	media4.steampowered.com
-46.16.252.18	na.gcsip.com
-23.32.248.58	steamcdn-a.akamaihd.net
-184.50.91.157	steamcommunity.com
-23.32.248.10	steamcommunity-a.akamaihd.net
-23.32.248.48	steamstore-a.akamaihd.net
-23.32.241.19	store.akamai.steamstatic.com
-184.50.91.157	store.steampowered.com
-23.32.241.40	store.valvesoftware.com
-184.50.91.157	storefront.steampowered.com
-184.50.91.157	support.steampowered.com
-# Steam End
-# 本文件来自 老D博客 www.laod.cn  转载请说明出处！
-# 更新于：2015-11-1 22:24
-# 更新地址：http://laod.cn/hosts/2015-google-hosts.html
+# 鏈枃浠舵潵鑷?鑰丏鍗氬 www.laod.cn
+# 鏇存柊浜庯細2015-11-3 21:52
+# 鏇存柊鍦板潃锛歨ttp://laod.cn/hosts/2015-google-hosts.html
 # Twitter Start
 185.45.5.47	t.co
 185.45.5.54	api.twitter.com
