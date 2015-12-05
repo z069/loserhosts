@@ -2,74 +2,12 @@
 #
 #  本文件为干互联网的屌丝专用！
 #
-#  更新于：2015-11-26 09:46
+#  更新于：2015-12-04 22:19
 #  
 #  部署hosts文件前请注意文本编码和换行符格式
 #
 #######################################################################
-# Google start
-216.239.38.125	gmail-imap.l.google.com
-216.239.38.125	googlemail-imap.l.google.com
-216.239.38.125	gmail-smtp.l.google.com
-216.239.38.125	googlemail-smtp.l.google.com
-216.239.38.125	gmail-pop.l.google.com
-216.239.38.125	googlemail-pop.l.google.com
-216.239.38.125	imap.gmail.com
-216.239.38.125	imap.googlemail.com
-216.239.38.125	smtp.gmail.com
-216.239.38.125	smtp.googlemail.com
-216.239.38.125	pop.gmail.com
-216.239.38.125	pop.googlemail.com
-216.239.38.125	gmail-smtp-msa.l.google.com
-216.239.38.125	gmail-smtp-in.l.google.com
-64.233.188.14	gmr-smtp-in.l.google.com
-64.233.177.127	stun.l.google.com
-64.233.177.127	alt1.stun.l.google.com
-64.233.177.127	alt2.stun.l.google.com
-64.233.177.127	alt3.stun.l.google.com
-64.233.177.127	alt4.stun.l.google.com
-64.233.177.127	alt5.stun.l.google.com
-64.233.188.125	talk.google.com
-64.233.188.125	talk.l.google.com
-64.233.188.125	talkx.l.google.com
-64.233.188.125	alt1.talk.l.google.com
-216.239.38.21	ghs.google.com
-216.239.38.21	ghs46.google.com
-216.239.38.21	ghs.l.google.com
-216.239.38.21	ghs46.l.google.com
-216.239.38.21	gsamplemaps.googlepages.com
-216.239.38.21	javascript-blocker.toggleable.com
-216.239.38.21	goto.ext.google.com
-216.239.38.21	webrtc.org
-216.239.38.21	www.webrtc.org
-216.239.38.21	chromeexperiments.com
-216.239.38.21	www.chromeexperiments.com
-216.239.38.21	vr.chromeexperiments.com
-216.239.38.21	www.gwtproject.org
-216.239.38.21	www.html5rocks.com
-216.239.38.21	slides.html5rocks.com
-216.239.38.21	playground.html5rocks.com
-216.239.38.21	studio.html5rocks.com
-216.239.38.21	lists.webmproject.org
-216.239.38.21	www.waveprotocol.org
-216.239.38.21	www.20thingsilearned.com
-216.239.38.21	www.creativelab5.com
-216.239.38.21	blog.webmproject.org
-216.239.38.21	www.agoogleaday.com
-216.239.38.21	www.gosetsuden.jp
-216.239.38.21	www.thegooglepuzzle.com
-216.239.38.21	www.thegobridgeoglepuzzle.com
-216.239.38.21	www.googlezeitgeist.com
-216.239.38.21	news.dartlang.org
-# laod.cn
-64.233.188.188	mobile-gtalk.l.google.com
-64.233.188.188	mtalk.google.com
-64.233.188.188	gcm.googleapis.com
-64.233.188.188	gcm.l.google.com
-64.233.188.188	gcm-xmpp.googleapis.com
-64.233.188.188	gcm-preprod.l.google.com
-64.233.188.188	gcm-preprod.googleapis.com
-64.233.188.192	supl.google.com
+# Gmail web Start
 216.239.38.125	chatenabled.mail.google.com
 216.239.38.125	filetransferenabled.mail.google.com
 216.239.38.125	gmail.com
@@ -81,6 +19,9 @@
 216.239.38.125	m.googlemail.com
 216.239.38.125	mail.google.com
 216.239.38.125	www.gmail.com
+# Gmail web End
+
+# Google Start
 64.233.160.90	www.google.com
 216.239.38.125	google.com
 216.239.38.125	gcr.io
@@ -315,8 +256,11 @@
 216.239.38.125	www.chromium.org
 216.239.38.125	dev.chromium.org
 216.239.38.125	blog.chromium.org
+# 74.125.248.71	build.chromium.org
+# 74.125.248.72	src.chromium.org
+# 74.125.248.73	git.chromium.org
+# 216.239.38.125	codereview.chromium.org
 64.233.162.87	download-chromium.appspot.com
-# 老D博客 www.laod.cn
 216.239.38.125	accounts.google.com.gi
 216.239.38.125	accounts.google.co.nz
 216.239.38.125	id.google.co.nz
@@ -673,6 +617,13 @@
 216.239.38.125	mts1.googleapis.com
 216.239.38.125	mts2.googleapis.com
 216.239.38.125	mts3.googleapis.com
+# 216.58.221.48	storage.googleapis.com
+# 216.58.221.48	commondatastorage.googleapis.com
+# 216.58.221.48	bucket.commondatastorage.googleapis.com
+# 216.58.221.48	chromium-browser-symbols.commondatastorage.googleapis.com
+# 216.58.221.48	c.commondatastorage.googleapis.com
+# 216.58.221.48	doc-0a9v4-0agdq-s.googleusercontent.commondatastorage.googleapis.com
+# 216.58.221.48	gweb-letour.storage.googleapis.com
 216.239.38.125	www.googlehosted.com
 216.239.38.125	base.googlehosted.com
 216.239.38.125	base0.googlehosted.com
@@ -721,7 +672,6 @@
 216.239.38.125	www.oneworldmanystories.com
 # 216.239.38.125	www.dartlang.org
 # 216.239.38.125	try.dartlang.org
-# www.laod.cn
 216.239.38.125	www.l.google.com
 216.239.38.125	www2.l.google.com
 216.239.38.125	www3.l.google.com
@@ -1233,6 +1183,7 @@
 216.239.38.125	m.google.com.sg
 216.239.38.125	mobile.google.com
 216.239.38.125	mobile.l.google.com
+# 216.239.38.125	ext.google.com
 216.58.217.12	proxy.googlezip.net
 216.58.217.12	check.googlezip.net
 216.58.217.12	compress.googlezip.net
@@ -1304,6 +1255,8 @@
 216.239.38.125	video-stats.video.google.com
 216.239.38.125	manifest.googlevideo.com
 64.233.162.83	onetoday.google.com
+
+# Google:others Start
 216.239.38.125	google.ad
 216.239.38.125	google.ae
 216.239.38.125	google.al
@@ -1700,6 +1653,87 @@
 64.233.188.129	login.corp.google.com
 64.233.188.129	uberproxy.corp.google.com
 64.233.188.129	uberproxy.l.google.com
+# Google:others End
+# 本文件来自 老D博客 www.laod.cn
+# 更新于：2015-12-04 22:19
+# 更新地址：http://laod.cn/hosts/2015-google-hosts.html
+# Gmail SMTP/POP/IMAP Start
+64.233.188.109	gmail-imap.l.google.com
+64.233.188.16	googlemail-imap.l.google.com
+64.233.188.108	gmail-smtp.l.google.com
+64.233.188.16	googlemail-smtp.l.google.com
+64.233.188.109	gmail-pop.l.google.com
+64.233.188.16	googlemail-pop.l.google.com
+64.233.188.109	imap.gmail.com
+64.233.188.16	imap.googlemail.com
+64.233.188.109	smtp.gmail.com
+64.233.188.16	smtp.googlemail.com
+64.233.188.109	pop.gmail.com
+64.233.188.16	pop.googlemail.com
+64.233.188.109	gmail-smtp-msa.l.google.com
+64.233.188.27	gmail-smtp-in.l.google.com
+64.233.188.14	gmr-smtp-in.l.google.com
+# Gmail SMTP/POP/IMAP End
+
+# Google:stun Server Start
+64.233.177.127	stun.l.google.com
+64.233.177.127	alt1.stun.l.google.com
+64.233.177.127	alt2.stun.l.google.com
+64.233.177.127	alt3.stun.l.google.com
+64.233.177.127	alt4.stun.l.google.com
+64.233.177.127	alt5.stun.l.google.com
+# Google:stun Server End
+
+# Google:Gtalk Start
+64.233.188.125	talk.google.com
+64.233.188.125	talk.l.google.com
+64.233.188.125	talkx.l.google.com
+64.233.188.125	alt1.talk.l.google.com
+# Google:Gtalk End
+
+# Google:ghs Start
+216.239.38.21	ghs.google.com
+216.239.38.21	ghs46.google.com
+216.239.38.21	ghs.l.google.com
+216.239.38.21	ghs46.l.google.com
+216.239.38.21	gsamplemaps.googlepages.com
+216.239.38.21	javascript-blocker.toggleable.com
+216.239.38.21	goto.ext.google.com
+216.239.38.21	webrtc.org
+216.239.38.21	www.webrtc.org
+216.239.38.21	chromeexperiments.com
+216.239.38.21	www.chromeexperiments.com
+216.239.38.21	vr.chromeexperiments.com
+216.239.38.21	www.gwtproject.org
+216.239.38.21	www.html5rocks.com
+216.239.38.21	slides.html5rocks.com
+216.239.38.21	playground.html5rocks.com
+216.239.38.21	studio.html5rocks.com
+216.239.38.21	lists.webmproject.org
+216.239.38.21	www.waveprotocol.org
+216.239.38.21	www.20thingsilearned.com
+216.239.38.21	www.creativelab5.com
+216.239.38.21	blog.webmproject.org
+216.239.38.21	www.agoogleaday.com
+216.239.38.21	www.gosetsuden.jp
+216.239.38.21	www.thegooglepuzzle.com
+216.239.38.21	www.thegobridgeoglepuzzle.com
+216.239.38.21	www.googlezeitgeist.com
+216.239.38.21	news.dartlang.org
+# Google:ghs End
+# Google:gcm Start
+64.233.188.188	mobile-gtalk.l.google.com
+64.233.188.188	mtalk.google.com
+64.233.188.188	gcm.googleapis.com
+64.233.188.188	gcm.l.google.com
+64.233.188.188	gcm-xmpp.googleapis.com
+64.233.188.188	gcm-preprod.l.google.com
+64.233.188.188	gcm-preprod.googleapis.com
+# Google:gcm End
+# Google:A-GPS Start
+64.233.188.192	supl.google.com
+# Google:A-GPS End
+# www.laod.cn
 185.45.5.47	t.co
 185.45.5.54	api.twitter.com
 185.45.5.41	a0.twimg.com
@@ -1713,13 +1747,13 @@
 185.45.5.41	o.twimg.com
 185.45.5.41	image-proxy-origin.twimg.com
 185.45.5.41	cdn.syndication.twimg.com
-185.45.5.45	about.twitter.com
-185.45.5.45	betastream.twitter.com
-185.45.5.45	blog.twitter.com
+185.45.5.34	about.twitter.com
+185.45.5.34	betastream.twitter.com
+185.45.5.34	blog.twitter.com
 199.59.150.48	cdn.api.twitter.com
 185.45.5.39	cdn.syndication.twitter.com
-185.45.5.45	dev.twitter.com
-185.45.5.35	downloads.tweetdeck.com
+185.45.5.34	dev.twitter.com
+185.45.5.34	downloads.tweetdeck.com
 185.45.5.48	mobile.twitter.com
 209.17.68.209	oi40.tinypic.com
 209.17.68.209	oi41.tinypic.com
@@ -1738,11 +1772,11 @@
 209.17.68.209	oi54.tinypic.com
 209.17.68.209	oi55.tinypic.com
 209.17.68.209	oi56.tinypic.com
-185.45.5.45	pic.twitter.com
+185.45.5.34	pic.twitter.com
 192.229.237.25	platform.twitter.com
 192.229.237.25	preview.cdn.twitter.com
 # 本文件来自 老D博客 www.laod.cn
-# 更新于：2015-11-26 09:46
+# 更新于：2015-12-04 22:19
 # 更新地址：http://laod.cn/hosts/2015-google-hosts.html
 185.45.5.41	si0.twimg.com
 185.45.5.41	si1.twimg.com
@@ -1750,34 +1784,34 @@
 185.45.5.41	si3.twimg.com
 185.45.5.41	si4.twimg.com
 185.45.5.41	si5.twimg.com
-185.45.5.45	sitestream.twitter.com
-185.45.5.45	stream.twitter.com
+185.45.5.34	sitestream.twitter.com
+185.45.5.34	stream.twitter.com
 185.45.5.49	support.twitter.com
-185.45.5.41	syndication.twimg.com
+185.45.5.34	syndication.twimg.com
 185.45.5.39	syndication.twitter.com
-185.45.5.41	syndication-o.twimg.com
+185.45.5.34	syndication-o.twimg.com
 185.45.5.39	syndication-o.twitter.com
-185.45.5.35	tdweb.twitter.com
+185.45.5.34	tdweb.twitter.com
 185.45.5.41	ton.twimg.com
-185.45.5.35	tweetdeck.twitter.com
-173.236.110.98	twitpic.com
-173.236.110.98	m1.twitpic.com
-104.244.42.193	twitter.com
+185.45.5.34	tweetdeck.twitter.com
+173.236.110.99	twitpic.com
+173.236.110.99	m1.twitpic.com
+104.244.42.195	twitter.com
 185.45.5.40	upload.twitter.com
 104.244.42.67	analytics.twitter.com
 199.59.150.48	urls-real.api.twitter.com
 108.61.13.60	userstream.twitter.com
-173.236.110.98	web1.twitpic.com
-173.236.110.98	web10.twitpic.com
-173.236.110.98	web2.twitpic.com
-173.236.110.98	web3.twitpic.com
-173.236.110.98	web4.twitpic.com
-173.236.110.98	web5.twitpic.com
-173.236.110.98	web6.twitpic.com
-173.236.110.98	web7.twitpic.com
-173.236.110.98	web8.twitpic.com
-173.236.110.98	web9.twitpic.com
-104.244.42.193	www.twitter.com
+173.236.110.99	web1.twitpic.com
+173.236.110.99	web10.twitpic.com
+173.236.110.99	web2.twitpic.com
+173.236.110.99	web3.twitpic.com
+173.236.110.99	web4.twitpic.com
+173.236.110.99	web5.twitpic.com
+173.236.110.99	web6.twitpic.com
+173.236.110.99	web7.twitpic.com
+173.236.110.99	web8.twitpic.com
+173.236.110.99	web9.twitpic.com
+104.244.42.195	www.twitter.com
 23.44.161.224	p.twitter.com
 204.13.251.34	search.twitter.com
 72.21.80.5	status.twitter.com
@@ -1793,10 +1827,11 @@
 199.59.243.21	si3.twimg.co
 199.7.91.13	si4.twimg.co
 199.59.243.120	si5.twimg.co
-185.45.5.35	tweetdeck.com
-185.45.5.35	api.tweetdeck.com
-185.45.5.35	web.tweetdeck.com
-185.45.5.35	www.tweetdeck.com
+185.45.5.34	tweetdeck.com
+185.45.5.34	api.tweetdeck.com
+185.45.5.34	web.tweetdeck.com
+185.45.5.34	www.tweetdeck.com
+# Wikipedia
 198.35.26.96	www.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 198.35.26.106	bits.wikimedia.org
@@ -2073,18 +2108,18 @@
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
 198.35.26.96	zu.wikipedia.org
-198.35.26.108   zh.m.wikipedia.org
+198.35.26.108	zh.m.wikipedia.org
 198.35.26.96	www.mediawiki.org
+198.35.26.96	www.wikibooks.org
 198.35.26.96	www.wikidata.org
 198.35.26.96	www.wikimedia.org
-198.35.26.96	www.wikiquote.org
 198.35.26.96	www.wikimediafoundation.org
 198.35.26.96	www.wikinews.org
 198.35.26.96	www.wikipedia.org
+198.35.26.96	www.wikiquote.org
 198.35.26.96	www.wikisource.org
 198.35.26.96	www.wikiversity.org
 198.35.26.96	www.wikivoyage.org
-198.35.26.96	www.wikibooks.org
 198.35.26.96	www.wiktionary.org
 198.35.26.96	m.mediawiki.org
 198.35.26.96	m.wikibooks.org
@@ -2175,40 +2210,40 @@
 # Wikipedia End
 # by:laod.cn
 # Facebook start
-31.13.95.46	mqtt.facebook.com
-31.13.95.46	video.xx.fbcdn.net
+31.13.95.20	mqtt.facebook.com
+31.13.95.20	video.xx.fbcdn.net
 77.67.4.11	fbcdn-sphotos-a-a.akamaihd.net
 77.67.4.64	fbcdn-sphotos-b-a.akamaihd.net
 77.67.4.74	fbcdn-sphotos-c-a.akamaihd.net
 77.67.4.73	fbcdn-sphotos-d-a.akamaihd.net
 77.67.4.74	fbcdn-sphotos-e-a.akamaihd.net
 77.67.4.10	fbcdn-sphotos-f-a.akamaihd.net
-31.13.95.46	fbcdn-sphotos-g-a.akamaihd.net
-31.13.95.46	fbcdn-sphotos-h-a.akamaihd.net
+31.13.95.20	fbcdn-sphotos-g-a.akamaihd.net
+31.13.95.20	fbcdn-sphotos-h-a.akamaihd.net
 2.16.162.11	fbcdn-profile-a.akamaihd.net
-31.13.95.46	scontent.xx.fbcdn.net
-31.13.95.46	scontent-a.xx.fbcdn.net
-31.13.95.46	scontent-b.xx.fbcdn.net
+31.13.95.20	scontent.xx.fbcdn.net
+31.13.95.20	scontent-a.xx.fbcdn.net
+31.13.95.20	scontent-b.xx.fbcdn.net
 23.213.58.87	s-static.ak.facebook.com
 23.213.58.87	profile.ak.facebook.com
 184.28.188.154	static.ak.facebook.com
 184.28.188.154	b.static.ak.facebook.com
-31.13.95.46	graph.facebook.com
-31.13.95.46	ssl.facebook.com
-31.13.95.46	api.facebook.com
-31.13.95.46	secure-profile.facebook.com
-31.13.95.46	secure.facebook.com
-31.13.95.46	zh-cn.facebook.com
-31.13.95.46	login.facebook.com
-31.13.95.46	m.facebook.com
-31.13.95.46	messages-facebook.com
-31.13.95.46	attachments.facebook.com
-31.13.95.46	touch.facebook.com
-31.13.95.46	facebook.com
-31.13.95.46	www.facebook.com
-31.13.95.46	apps.facebook.com
-31.13.95.46	profile.ak.fbcdn.net
-31.13.95.46	vpn.tfbnw.net
+31.13.95.20	graph.facebook.com
+31.13.95.20	ssl.facebook.com
+31.13.95.20	api.facebook.com
+31.13.95.20	secure-profile.facebook.com
+31.13.95.20	secure.facebook.com
+31.13.95.20	zh-cn.facebook.com
+31.13.95.20	login.facebook.com
+31.13.95.20	m.facebook.com
+31.13.95.20	messages-facebook.com
+31.13.95.20	attachments.facebook.com
+31.13.95.20	touch.facebook.com
+31.13.95.20	facebook.com
+31.13.95.20	www.facebook.com
+31.13.95.20	apps.facebook.com
+31.13.95.20	profile.ak.fbcdn.net
+31.13.95.20	vpn.tfbnw.net
 184.28.188.240	vthumb.ak.fbcdn.net
 184.28.188.152	photos-a.ak.fbcdn.net
 184.28.188.154	photos-b.ak.fbcdn.net
@@ -2219,12 +2254,12 @@
 184.28.188.171	photos-g.ak.fbcdn.net
 184.28.188.146	photos-h.ak.fbcdn.net
 184.28.188.171	creative.ak.fbcdn.net
-31.13.95.46	fbcdn.net
+31.13.95.20	fbcdn.net
 184.28.188.153	external.ak.fbcdn.net
 184.28.188.153	b.static.ak.fbcdn.net
 184.28.188.153	static.ak.fbcdn.net
-31.13.95.46	upload.facebook.com
-31.13.95.46	developers.facebook.com
+31.13.95.20	upload.facebook.com
+31.13.95.20	developers.facebook.com
 184.28.188.153	act.channel.facebook.com
 184.28.188.153	0-act.channel.facebook.com
 184.28.188.153	1-act.channel.facebook.com
@@ -2233,43 +2268,43 @@
 184.28.188.153	4-act.channel.facebook.com
 184.28.188.153	5-act.channel.facebook.com
 184.28.188.153	6-act.channel.facebook.com
-31.13.95.46	beta-chat-01-05-ash3.facebook.com
+31.13.95.20	beta-chat-01-05-ash3.facebook.com
 184.28.188.153	origincache-ai-01-05-ash3.fbcdn.net
-31.13.95.46	static.thefacebook.com
+31.13.95.20	static.thefacebook.com
 184.28.188.153	inyour-slb-01-05-ash3.facebook.com
 184.28.188.153	origincache-starfacebook-ai-01-05-ash3.facebook.com
-31.13.95.46	channel-ecmp-05-ash3.facebook.com
-31.13.95.46	channel-staging-ecmp-05-ash3.facebook.com
-31.13.95.46	channel-testing-ecmp-05-ash3.facebook.com
-31.13.95.46	0-edge-chat.facebook.com
-31.13.95.46	1-edge-chat.facebook.com
-31.13.95.46	2-edge-chat.facebook.com
-31.13.95.46	3-edge-chat.facebook.com
-31.13.95.46	4-edge-chat.facebook.com
-31.13.95.46	5-edge-chat.facebook.com
-31.13.95.46	6-edge-chat.facebook.com
-31.13.95.46	api-read.facebook.com
-31.13.95.46	attachment.fbsbx.com
-31.13.95.46	bigzipfiles.facebook.com
-31.13.95.46	check4.facebook.com
-31.13.95.46	check6.facebook.com
-31.13.95.46	code.facebook.com
-31.13.95.46	connect.facebook.com
-31.13.95.46	edge-chat.facebook.com
-31.13.95.46	pixel.facebook.com
-31.13.95.46	star.c10r.facebook.com
-31.13.95.46	star.facebook.com
-31.13.95.46	zh-tw.facebook.com
-31.13.95.46	b-api.facebook.com
-31.13.95.46	b-graph.facebook.com
-31.13.95.46	connect.facebook.net
-31.13.95.46	creative.ak.fbcdn.net
-31.13.95.46	d.facebook.com
-31.13.95.46	ent-a.xx.fbcdn.net
-31.13.95.46	ent-b.xx.fbcdn.net
-31.13.95.46	ent-c.xx.fbcdn.net
-31.13.95.46	ent-d.xx.fbcdn.net
-31.13.95.46	ent-e.xx.fbcdn.net
+31.13.95.20	channel-ecmp-05-ash3.facebook.com
+31.13.95.20	channel-staging-ecmp-05-ash3.facebook.com
+31.13.95.20	channel-testing-ecmp-05-ash3.facebook.com
+31.13.95.20	0-edge-chat.facebook.com
+31.13.95.20	1-edge-chat.facebook.com
+31.13.95.20	2-edge-chat.facebook.com
+31.13.95.20	3-edge-chat.facebook.com
+31.13.95.20	4-edge-chat.facebook.com
+31.13.95.20	5-edge-chat.facebook.com
+31.13.95.20	6-edge-chat.facebook.com
+31.13.95.20	api-read.facebook.com
+31.13.95.20	attachment.fbsbx.com
+31.13.95.20	bigzipfiles.facebook.com
+31.13.95.20	check4.facebook.com
+31.13.95.20	check6.facebook.com
+31.13.95.20	code.facebook.com
+31.13.95.20	connect.facebook.com
+31.13.95.20	edge-chat.facebook.com
+31.13.95.20	pixel.facebook.com
+31.13.95.20	star.c10r.facebook.com
+31.13.95.20	star.facebook.com
+31.13.95.20	zh-tw.facebook.com
+31.13.95.20	b-api.facebook.com
+31.13.95.20	b-graph.facebook.com
+31.13.95.20	connect.facebook.net
+31.13.95.20	creative.ak.fbcdn.net
+31.13.95.20	d.facebook.com
+31.13.95.20	ent-a.xx.fbcdn.net
+31.13.95.20	ent-b.xx.fbcdn.net
+31.13.95.20	ent-c.xx.fbcdn.net
+31.13.95.20	ent-d.xx.fbcdn.net
+31.13.95.20	ent-e.xx.fbcdn.net
 23.32.248.66	fbcdn-creative-a.akamaihd.net
 72.246.188.82	fbcdn-photos-a.akamaihd.net
 72.246.188.19	fbcdn-photos-e-a.akamaihd.net
@@ -2293,21 +2328,21 @@
 23.32.248.33	fbcdn-vthumb-a.akamaihd.net
 23.32.248.27	fbexternal-a.akamaihd.net
 58.26.185.48	fbstatic-a.akamaihd.net
-31.13.95.46	ldap.thefacebook.com
-31.13.95.46	orcart.facebook.com
-31.13.95.46	scontent-a-lax.xx.fbcdn.net
-31.13.95.46	scontent-a-sin.xx.fbcdn.net
-31.13.95.46	scontent-b-lax.xx.fbcdn.net
+31.13.95.20	ldap.thefacebook.com
+31.13.95.20	orcart.facebook.com
+31.13.95.20	scontent-a-lax.xx.fbcdn.net
+31.13.95.20	scontent-a-sin.xx.fbcdn.net
+31.13.95.20	scontent-b-lax.xx.fbcdn.net
 183.111.23.18	scontent-b-sin.xx.fbcdn.net
-31.13.95.46	scontent-c.xx.fbcdn.net
-31.13.95.46	scontent-d.xx.fbcdn.net
-31.13.95.46	scontent-e.xx.fbcdn.net
-31.13.95.46	scontent-mxp.xx.fbcdn.net
+31.13.95.20	scontent-c.xx.fbcdn.net
+31.13.95.20	scontent-d.xx.fbcdn.net
+31.13.95.20	scontent-e.xx.fbcdn.net
+31.13.95.20	scontent-mxp.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
 118.214.29.177	s-static.facebook.com
-31.13.95.46	vupload.facebook.com
-31.13.95.46	vupload2.vvv.facebook.com
+31.13.95.20	vupload.facebook.com
+31.13.95.20	vupload2.vvv.facebook.com
 69.167.138.64	www.appannie.com
 69.167.138.64	appannie.com
 68.232.44.121	www.gravatar.com
